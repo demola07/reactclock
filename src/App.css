@@ -19,6 +19,19 @@
   color: white;
 }
 
+.clock {
+  font-size: 200px;
+}
+.btn-flat {
+  background-color: purple;
+  color: white;
+}
+
+.btn-xxl {
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+}
+
 .App-link {
   color: #61dafb;
 }
